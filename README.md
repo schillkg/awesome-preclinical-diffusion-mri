@@ -1,10 +1,15 @@
 # Small Animal and Ex Vivo Diffusion
 Code, software, and datasets for small animal and ex vivo diffusion MRI
 
-Here, we compile  a list of existing and freely shared small-animl or ex vivo diffusion datasets (**Table 1 and Table 2**), a list  of available software dedicated to image acquisition (**Table 3**), a list of software  available for data pre-processing (**Table 4**), and a list of software available for model fitting (**Table 5**). 
+Here, we compile  a list of existing and freely shared [small animal datasets](#small-animal-datasets) or [ex vivo diffusion datasets](#ex-vivo-datasets), a list  of available software dedicated to [image acquisition](#data-acquisition), a list of software  available for [data pre-processing](#pre-processing), and a list of software available for [model fitting](#model-fitting). 
 
-Citation of paper goes here
+This project is associated with two manuscripts on preclinical diffusion MRI:
 
+Recommendations and guidelines from the ISMRM Diffusion Study Group for preclinical diffusion MRI: Part 1 — In vivo small-animal imaging
+
+Recommendations and guidelines from the ISMRM Diffusion Study Group for preclinical diffusion MRI: Part 2 — Ex vivo imaging
+
+If you would like your dataset or software included in this table, please make a suggestion by submitting an issue to the repo.
 
 ## Small Animal Datasets
 
